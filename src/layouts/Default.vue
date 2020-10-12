@@ -99,7 +99,7 @@ query {
 
 </script>
 
-<style scoped>
+<style>
 /*
 * Prefixed by https://autoprefixer.github.io
 * PostCSS: v7.0.29,

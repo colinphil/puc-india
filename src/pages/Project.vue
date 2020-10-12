@@ -109,7 +109,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
  /*
 * Prefixed by https://autoprefixer.github.io

@@ -269,7 +269,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 
   /* Team Styling */
 
