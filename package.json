@@ -4,7 +4,9 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "^1.1.5",
@@ -21,7 +23,5 @@
     "vue": "^2.6.12",
     "vue-chartjs": "^3.5.1",
     "vue-number-animation": "^1.0.5"
-  },
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+  }
 }
