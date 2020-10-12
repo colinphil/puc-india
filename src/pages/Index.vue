@@ -93,7 +93,7 @@
           </div>
           <div>
             <h4><em><font-awesome-icon :icon="['fas', 'building']" /> Building Dimensions</em></h4>
-            <h1>30' x 26'</h1>
+            <h1>31' x 26'</h1>
           </div>
           <div>
             <h4><em><font-awesome-icon :icon="['fas', 'users']" /> Village Population</em></h4>
