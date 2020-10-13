@@ -112,6 +112,8 @@ query {
 */
 
 .fade-enter-active {
+  -webkit-transition: opacity 0.5s;
+  -o-transition: opacity 0.5s;
   transition: opacity 0.5s;
 }
 
