@@ -11,4 +11,5 @@ module.exports = {
   siteDescription: 'PUC India is an interdiscplinary team of undergraduate engineering students in Projects with Underserved Communities, a humanitarian engineering organization at the Univeristy of Texas at Austin. The team is designing, funding, and constructing crucial infrastructure for the village of Siripudi in Andhra Pradesh, India.',
   pathPrefix: "/puc-india",
   icon: './static/favicon-16x16.png',
+  pathPrefix: ''
 };

@@ -80,8 +80,7 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
   /* Partners Styling */
  /*
 * Prefixed by https://autoprefixer.github.io

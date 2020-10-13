@@ -272,9 +272,8 @@ export default {
 }
 </script>
 
-<style>
-
-  /* Team Styling */
+<style scoped>
+/* Team Styling */
 
   /*
 * Prefixed by https://autoprefixer.github.io
@@ -553,3 +552,4 @@ export default {
   }
 
 </style>
+

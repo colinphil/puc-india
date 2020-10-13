@@ -6,7 +6,7 @@
         <div class="top-text">
           <h1>The Community</h1>
           <p>We are fortunate to be working with the community of <strong>Siripudi</strong> in the state of <strong>Andhra Pradesh</strong>, India. This community is composed of 
-          people from the Scheduled Caste and Tribes, the lowest rung of the Indian caste system. As a result, they are <strong>socioeconomically ostracized</strong> and the COVID-19 epidemic
+          people from  the Scheduled Caste and Tribes, the lowest rung of the Indian caste system. As a result, they are <strong>socioeconomically ostracized</strong> and the COVID-19 epidemic
           has only accentuated the obstacles they face daily.</p>
         </div>
       </div>
@@ -62,8 +62,7 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
  /*
 * Prefixed by https://autoprefixer.github.io
 * PostCSS: v7.0.29,
@@ -276,4 +275,4 @@ export default {
     }
   }
 
-</style>
+</style>>
