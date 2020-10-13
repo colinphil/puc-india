@@ -2,7 +2,7 @@
   <Layout>
     <div class="outer">
       <div class="top-content">
-        <img src="../../static/india-map-1696413-1438120.png"/>
+        <g-image src="../../static/india-map-1696413-1438120.png"/>
         <div class="top-text">
           <h1>The Community</h1>
           <p>We are fortunate to be working with the community of <strong>Siripudi</strong> in the state of <strong>Andhra Pradesh</strong>, India. This community is composed of 
@@ -24,11 +24,11 @@
                         Regular schooling has recently begun for the largely illiterate community, held within the residental huts at night.
                     </p>
                 </div>
-                <img src="../../static/village-group.png"/>
+                <g-image src="../../static/village-group.png"/>
             </div>
 
             <div class="partner">
-                <img src="../../static/covid.jpg"/>
+                <g-image src="../../static/covid.jpg"/>
                 <div class="partner-description">
                     <h1><strong>COVID-19 Impact</strong></h1>
                     <p><em>April 2020 - Present</em></p>

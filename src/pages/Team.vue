@@ -2,7 +2,7 @@
   <Layout>
     <div class="outer">
       <div class="top-content">
-        <img src="../../static/undraw_team_ih79.svg"/>
+        <g-image src="../../static/undraw_team_ih79.svg"/>
         <div class="top-text">
           <h1>Meet Our Team</h1>
           <p>From Social Work to Civil Engineering, our 14 total team members come from a diverse background throughout the Cockrell School and beyond. Meet the team of undergraduates spearheading this project. </p>

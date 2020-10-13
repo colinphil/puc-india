@@ -25,9 +25,9 @@
         </div>
         <div class="what">
           <div class="what-images">
-            <img src="../../static/undraw_team_spirit_hrr4.svg"/>
-            <img src="../../static/undraw_Scrum_board_re_wk7v.svg"/>
-            <img src="../../static/undraw_under_construction_46pa.svg"/>
+            <g-image src="../../static/undraw_team_spirit_hrr4.svg"/>
+            <g-image src="../../static/undraw_Scrum_board_re_wk7v.svg"/>
+            <g-image src="../../static/undraw_under_construction_46pa.svg"/>
           </div>
           <div class="what-cards">
             <div class="what-content">

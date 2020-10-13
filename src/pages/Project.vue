@@ -60,10 +60,10 @@
                     <h1><strong>Selected Designs</strong></h1>
                     <hr/>
                     <div class="design-gallery">
-                        <img src="../../static/building-top.png"/>
-                        <img src="../../static/building-other.png"/>
-                        <img src="../../static/building-side.png"/>
-                        <img src="../../static/building-other-side.png"/>
+                        <g-image src="../../static/building-top.png"/>
+                        <g-image src="../../static/building-other.png"/>
+                        <g-image src="../../static/building-side.png"/>
+                        <g-image src="../../static/building-other-side.png"/>
                     </div>
                 </div>
             </div>

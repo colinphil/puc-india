@@ -2,7 +2,7 @@
   <Layout>
     <div class="outer">
       <div class="top-content">
-        <img src="../../static/undraw_agreement_aajr.svg"/>
+        <g-image src="../../static/undraw_agreement_aajr.svg"/>
         <div class="top-text">
           <h1>Our Partners</h1>
           <p>We collaborate with a variety of organizations and engineers from across two continents. Without these individuals, the project would not be where it is today and despite the COVID-19 setback, 
@@ -23,10 +23,10 @@
                         the dialogue between the team and community. Their awesome team members have gone above and beyond to support the project and we're looking forward to working them throughout this year!
                     </p>
                 </div>
-                <img src="../../static/casa.jpg"/>
+                <g-image src="../../static/casa.jpg"/>
             </div>
             <div class="partner">
-                <img src="../../static/ken.jpg"/>
+                <g-image src="../../static/ken.jpg"/>
                 <div class="partner-description">
                     <h1><strong>Ken Hanks, P.E.</strong></h1>
                     <p><em>Senior Structural Engineer</em> &nbsp;<a href="https://www.linkedin.com/in/ken-hanks-9076554/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></p>
@@ -45,10 +45,10 @@
                         We've talked with him consistently throughout this past year and are looking forward to finally meeting him in person!
                     </p>
                 </div>
-                <img src="../../static/poul.jpg"/>
+                <g-image src="../../static/poul.jpg"/>
             </div>
             <div class="partner">
-                <img src="../../static/puclogo_edited_edited.webp"/>
+                <g-image src="../../static/puclogo_edited_edited.webp"/>
                 <div class="partner-description">
                     <h1><strong>Projects with Underserved Communities (PUC)</strong></h1>
                     <p><em>Humanitarian Engineering Organization</em> &nbsp;<a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
