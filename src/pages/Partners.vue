@@ -75,7 +75,10 @@
  
 export default {
   metaInfo: {
-    title: 'Our Partners'
+    title: 'Our Partners',
+    meta: [
+      {name: 'author', content: 'Colin Phillips'}
+    ]
   }
 }
 </script>

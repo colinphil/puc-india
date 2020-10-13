@@ -138,7 +138,7 @@
         <div class="team-photos">
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/colin.jpg"/>
+              <g-image class="image" src="../../static/colin.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Computer Engineering Honors, Mathematics</li>
@@ -154,7 +154,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/ramya.jpg"/>
+              <g-image class="image" src="../../static/ramya.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Biomedical Engineering, Plan II Honors</li>
@@ -170,7 +170,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/elise.jpg"/>
+              <g-image class="image" src="../../static/elise.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Civil Engineering</li>
@@ -186,7 +186,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/audrey.jpg"/>
+              <g-image class="image" src="../../static/audrey.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Architectural Engineering</li>
@@ -202,7 +202,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/britta.jpg"/>
+              <g-image class="image" src="../../static/britta.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Mechanical Engineering</li>
@@ -218,7 +218,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/dain.jpg"/>
+              <g-image class="image" src="../../static/dain.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Biomedical Engineering</li>
@@ -234,7 +234,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/jamie.jpg"/>
+              <g-image class="image" src="../../static/jamie.jpg"/>
               <div class="team-text">
                  <ul>
                   <li><span>Major:</span> Social Work</li>

@@ -2,7 +2,7 @@
   <Layout>
     <div class="outer">
       <div class="top-content">
-        <img src="../../static/building.png"/>
+        <g-image src="../../static/building.png"/>
         <div class="top-text">
           <h1>Our Project</h1>
           <p>PUC India is designing, funding, and constructing a <strong>31' x 26' Multipurpose Community Center</strong> for the village of Siripudi. The structure is designed to serve three main purposes: natural disaster relief, administering medical care, and 
@@ -104,7 +104,10 @@
  
 export default {
   metaInfo: {
-    title: 'Our Project'
+    title: 'Our Project',
+    meta: [
+      {name: 'author', content: 'Colin Phillips'}
+    ]
   }
 }
 </script>

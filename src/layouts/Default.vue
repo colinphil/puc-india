@@ -34,9 +34,13 @@
       </b-navbar>
     </div>
 
-    <!-- Content to be inserted -->
-    <slot/>
-
+    <transition name="fade" appear>
+      <!-- Content to be inserted -->
+      <main>
+        <slot/>
+      </main>
+    </transition>
+  
     <div class="contact">
       <a href="https://www.instagram.com/pucindia2020/" target="_blank"><font-awesome-icon :icon="['fab', 'instagram']" id='insta'/></a>
       <a href="https://www.facebook.com/PUCIndia2020" target="_blank"><font-awesome-icon :icon="['fab', 'facebook']" id='insta'/></a>
@@ -53,7 +57,7 @@
           <h3>More Information</h3>
           <div class="links">
             <a href="https://admissions.utexas.edu/" target="_blank">UT Home</a>
-            <a href="https://www.engr.utexas.edu/">Engineering Home</a>
+            <a href="https://www.engr.utexas.edu/" target="_blank">Engineering Home</a>
             <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank">Organization Website</a>
             <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank">HornRaiser</a>
           </div>
@@ -106,6 +110,14 @@ query {
 * Autoprefixer: v9.7.6
 * Browsers: last 4 version
 */
+
+.fade-enter-active {
+  transition: opacity 0.5s;
+}
+
+.fade-enter {
+  opacity: 0;
+}
 
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;

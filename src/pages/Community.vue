@@ -57,7 +57,10 @@
  
 export default {
   metaInfo: {
-    title: 'The Community'
+    title: 'The Community',
+    meta: [
+      {name: 'author', content: 'Colin Phillips'}
+    ]
   }
 }
 </script>
