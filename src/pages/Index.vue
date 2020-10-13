@@ -32,15 +32,15 @@
           <div class="what-cards">
             <div class="what-content">
               <h3><strong><span>01.</span> Collaborate</strong></h3>
-              <p>Since Fall 2019, we work have been working with a non-governmental organization (NGO) in India to identify pressing issues in local communities.</p>
+              <p>Since Fall 2019, we have been working with a non-governmental organization (NGO) in India to identify pressing issues in local communities.</p>
             </div>
             <div class="what-content">
               <h3><strong><span>02.</span> Conceptualize</strong></h3>
-              <p>We have designed a <strong>31' x 26' Multipurpose Community Center</strong> to provide crucial infrastrcture for the village of Siripudi in Andhra Pradesh.</p>
+              <p>We've designed a <strong>31' x 26' Multipurpose Community Center</strong> to provide crucial infrastrcture for the village of Siripudi in Andhra Pradesh.</p>
             </div>
             <div class="what-content">
               <h3><strong><span>03.</span> Create</strong></h3>
-              <p>The team will <strong>completely fund</strong>, develop implementation timelines, and directly <strong>oversee construction</strong> on the ground in India during Summer 2021.</p>
+              <p>The team will <strong>completely fund</strong>, develop implementation timelines, and directly <strong>oversee construction</strong> in India during Summer 2021.</p>
             </div>
           </div>
         </div>
@@ -57,8 +57,8 @@
           <div><h1>Our Story</h1></div>
           <p>We're a team of <strong>Engineering and Social Work</strong> students at the <strong>University of Texas at Austin</strong> looking to make a real impact on a community in India. 
             We're teaming up with a local NGO to design, fund, and build a <strong>Multipurpose Community Center</strong> for the village of Siripudi in the state of <strong>Andhra Pradesh</strong>. 
-            We're extremely excited about this amazing opportunity to combine humanitarian work with engineering! Follow us on our journey and learn more about the team below!</p>
-          <a type="button" href="/team">Meet the A-Team</a>
+            We're extremely excited about this amazing opportunity to combine humanitarian work with engineering - follow us on our journey and learn more about the team below!</p>
+          <a type="button" href="/team">Meet the Team</a>
         </div>
       </div>
     </div>

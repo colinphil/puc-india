@@ -43,10 +43,10 @@
                     <h1><strong>Project Motivation</strong></h1>
                     <hr/>
                     <ul>
-                        <li><font-awesome-icon :icon="['fas', 'warehouse']"/> &nbsp;Siripudi lacks any permanent infrastructure - the village is composed solely of thatched huts.</li>
-                        <li><font-awesome-icon :icon="['fas', 'stethoscope']"/> &nbsp;The Indian government often sends doctors to villages like Siripudi - there is currently no place to safely administer care.</li>
-                        <li><font-awesome-icon :icon="['fas', 'running']"/> &nbsp;During the annual monsoon season, the villagers are forced to travel over 50 kilometers to a safe haven to escape flooding.</li>
-                        <li><font-awesome-icon :icon="['fas', 'graduation-cap']"/> &nbsp;Schooling has recently begun at night for young children - sessions are held in residential huts without sufficient lighting.</li>
+                        <li><font-awesome-icon :icon="['fas', 'warehouse']"/> &nbsp;Siripudi lacks any <strong>permanent infrastructure</strong> - the village is composed solely of thatched huts.</li>
+                        <li><font-awesome-icon :icon="['fas', 'stethoscope']"/> &nbsp;The Indian government often sends doctors to villages like Siripudi - there is currently <strong>no place to safely administer care.</strong></li>
+                        <li><font-awesome-icon :icon="['fas', 'running']"/> &nbsp;During the annual monsoon season, the villagers are forced to <strong>travel over 50 kilometers</strong> to a safe haven to escape flooding.</li>
+                        <li><font-awesome-icon :icon="['fas', 'graduation-cap']"/> &nbsp;<strong>Schooling</strong> has recently begun at night for young children - sessions are held in residential huts without sufficient lighting.</li>
                     </ul>
                 </div>
             </div>

@@ -19,8 +19,8 @@
                     <h1><strong>Church's Auxiliary for Social Action (CASA)</strong></h1>
                     <p><em>Indian Non-Governmental Organization (NGO)</em> &nbsp;<a href="http://casa-india.org/" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
                     <hr/>
-                    <p>CASA is an NGO based in New Delhi with focuses on promoting education, gender equality, and sustainable livelihoods across India. CASA has partnered with PUC teams in the past and has been facilitating 
-                        the dialogue between the team and community. Their awesome team members have gone above and beyond to support the project and we're looking forward to working them throughout this year and beyond!
+                    <p>CASA is an NGO based in New Delhi which focuses on promoting education, gender equality, and sustainable livelihoods across India. CASA has partnered with PUC teams in the past and has been facilitating 
+                        the dialogue between the team and community. Their awesome team members have gone above and beyond to support the project and we're looking forward to working them throughout this year!
                     </p>
                 </div>
                 <img src="../../static/casa.jpg"/>
@@ -31,7 +31,7 @@
                     <h1><strong>Ken Hanks, P.E.</strong></h1>
                     <p><em>Senior Structural Engineer</em> &nbsp;<a href="https://www.linkedin.com/in/ken-hanks-9076554/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></p>
                     <hr/>
-                    <p>Ken "Kenjamin" Hanks is a practicing Strucutral Engineer in Austin, Texas that has been serving as the team's Traveling Technical Adviser for the project. He has been vital in providing 
+                    <p>Ken "Kenjamin" Hanks is a practicing Structural Engineer in Austin, Texas that has been serving as the team's Traveling Technical Adviser for the project. He has been vital in providing 
                         feedback and evaluating our designs. He will be assisting the team during the implementation phase by traveling with us to Siripudi in May 2021. 
                     </p>
                 </div>
@@ -41,7 +41,7 @@
                     <h1><strong>Poul Luther</strong></h1>
                     <p><em>Project Manager, CASA</em> </p>
                     <hr/>
-                    <p>Poul is our fantastic point-of-contact at CASA that has been, and will continue to be, a crucial part of our project. He has helped us throughout the ideation phase and is helping the team secure a contractor and lodging once we travel. 
+                    <p>Poul is our fantastic point-of-contact at CASA that has been, and will continue to be, a crucial part of our project. He has helped us throughout the ideation phase and is assisting the team to secure a contractor and lodging once we travel. 
                         We've talked with him consistently throughout this past year and are looking forward to finally meeting him in person!
                     </p>
                 </div>

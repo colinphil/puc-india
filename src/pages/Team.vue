@@ -5,7 +5,7 @@
         <img src="../../static/undraw_team_ih79.svg"/>
         <div class="top-text">
           <h1>Meet Our Team</h1>
-          <p>From Social Work to Civil Engineering, our 14 total team members come from a diverse background throughout the Cockrell School and beyond. Meet the two teams of undergraduates spearheading this project. </p>
+          <p>From Social Work to Civil Engineering, our 14 total team members come from a diverse background throughout the Cockrell School and beyond. Meet the team of undergraduates spearheading this project. </p>
         </div>
       </div>
     </div>
@@ -134,7 +134,7 @@
       <hr/> -->
       <div class="team-content">
         <h2>2019-2020 Team</h2>
-        <p>This quirky team was the original seven person group to start this project in 2019.</p>
+        <p>This "<strong>quirky</strong>"" team was the original seven person group to start this project in 2019.</p>
         <div class="team-photos">
           <div class="photo-block"> 
             <div class="photo">
@@ -193,7 +193,7 @@
                   <hr/>
                   <li><span>Why PUC:</span> Audrey is so excited to get real-life experience in project planning and development, and to have the opportunity to help a community overseas.</li>
                   <hr/>
-                  <li><span>Fun Fact:</span> Matthew McConaughey graduated high school from Audrey's hometown and she iss convinced that it's destined for them to be great friends.</li>
+                  <li><span>Fun Fact:</span> Matthew McConaughey graduated high school from Audrey's hometown and she's convinced that it's destined for them to be great friends.</li>
                 </ul>
               </div>
             </div>
@@ -207,7 +207,7 @@
                 <ul>
                   <li><span>Major:</span> Mechanical Engineering</li>
                   <hr/>
-                  <li><span>Why PUC:</span> Britta is excited to be able to apply the knowledge she has elarned in the classroom to a real-world application that positively impacts people. </li>
+                  <li><span>Why PUC:</span> Britta is excited to be able to apply the knowledge she has learned in the classroom to a real-world application that positively impacts people. </li>
                   <hr/>
                   <li><span>Fun Fact:</span> Britta is on the UT Rock Climbing team and loves to boulder in her spare time.</li>
                 </ul>
@@ -239,7 +239,7 @@
                  <ul>
                   <li><span>Major:</span> Social Work</li>
                   <hr/>
-                  <li><span>Why PUC:</span> Jamie is hoping to get expereince and feed her passion for community planning and empowering people living in poverty.</li>
+                  <li><span>Why PUC:</span> Jamie is hoping to get experience and feed her passion for community planning and empowering people living in poverty.</li>
                   <hr/>
                   <li><span>Fun Fact:</span> Jamie has taken ballet lessons for 12 years and is still not good.</li>
                 </ul>
