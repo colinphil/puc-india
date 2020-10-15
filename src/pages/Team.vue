@@ -17,7 +17,7 @@
         <div class="team-photos">
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/colin.jpg"/>
+              <g-image class="image" src="../../static/scia.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Mechanical Engineering</li>
@@ -33,7 +33,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/ramya.jpg"/>
+              <g-image class="image" src="../../static/rachel.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Civil Engineering</li>
@@ -49,7 +49,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/elise.jpg"/>
+              <g-image class="image" src="../../static/nathan.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Chemcial Engineering Honors</li>
@@ -65,7 +65,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/audrey.jpg"/>
+              <g-image class="image" src="../../static/bedelwa.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Government</li>
@@ -81,7 +81,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/dain.jpg"/>
+              <g-image class="image" src="../../static/bhaargavi.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Chemical Engineering</li>
@@ -97,7 +97,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/britta.jpg"/>
+              <g-image class="image" src="../../static/rohan.jpg"/>
               <div class="team-text">
                 <ul>
                   <li><span>Major:</span> Biomedical Engineering</li>
@@ -113,7 +113,7 @@
           </div>
           <div class="photo-block"> 
             <div class="photo">
-              <img class="image" src="../../static/jamie.jpg"/>
+              <g-image class="image" src="../../static/ofek.jpg"/>
               <div class="team-text">
                  <ul>
                   <li><span>Major:</span> Architectural Engineering</li>
@@ -134,7 +134,7 @@
       <hr/> -->
       <div class="team-content">
         <h2>2019-2020 Team</h2>
-        <p>This "<strong>quirky</strong>"" team was the original seven person group to start this project in 2019.</p>
+        <p>This "<strong>quirky</strong>" team was the original seven person group to start this project in 2019.</p>
         <div class="team-photos">
           <div class="photo-block"> 
             <div class="photo">

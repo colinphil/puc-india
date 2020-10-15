@@ -51,6 +51,7 @@
         <div class="story-images">
           <g-image src="../../static/tower.jpg"/>
           <g-image src="../../static/candid-team.jpg"/>
+          <!-- <g-image src="../../static/21-team.jpg"/> -->
         </div>
         <div class="story-content">
           <g-image src="../../static/paint.svg"/>
@@ -647,15 +648,36 @@
   border-radius: 5%;
 }
 
+/* for PUC India 2020 version */
 .story-images img:nth-of-type(2){
   width: 30%;
   position: absolute;
-  -webkit-transform: translate(-70%, 30%);
-      -ms-transform: translate(-70%, 30%);
-          transform: translate(-70%, 30%);
+  -webkit-transform: translate(-70%, 40%);
+      -ms-transform: translate(-70%, 40%);
+          transform: translate(-70%, 40%);
   border: solid white 10px;
   border-radius: 5%;
 }
+
+/* .story-images img:nth-of-type(3){
+  width: 25%;
+  position: absolute;
+  -webkit-transform: translate(-70%, 15%);
+      -ms-transform: translate(-70%, 15%);
+          transform: translate(-70%, 15%);
+  border: solid white 10px;
+  border-radius: 5%;
+}
+
+.story-images img:nth-of-type(2){
+  width: 25%;
+  position: absolute;
+  -webkit-transform: translate(-70%, 120%);
+      -ms-transform: translate(-70%, 120%);
+          transform: translate(-70%, 120%);
+  border: solid white 10px;
+  border-radius: 5%;
+} */
 
 @media screen and (max-width: 1700px){
   .story-content p {
@@ -716,6 +738,14 @@
   .story-images{
     width: 80%;
   } 
+
+  /* .story-images img:nth-of-type(2){
+    width: 40%;
+  }
+
+  .story-images img:nth-of-type(3){
+    width: 40%;
+  } */
 
   .story-images img:nth-of-type(2){
     width: 50%;
@@ -839,8 +869,13 @@
   margin-bottom: 20px;
 }
 
-.second-column img:nth-of-type(3), .second-column img:nth-of-type(2){
-  width: 48%;
+.second-column img:nth-of-type(3){
+  width: 40%;
+  margin-bottom: 10px;
+}
+
+.second-column img:nth-of-type(2){
+  width: 55%;
   margin-bottom: 10px;
 }
 

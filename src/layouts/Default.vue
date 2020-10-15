@@ -59,7 +59,7 @@
             <a href="https://admissions.utexas.edu/" target="_blank">UT Home</a>
             <a href="https://www.engr.utexas.edu/" target="_blank">Engineering Home</a>
             <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank">Organization Website</a>
-            <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank">HornRaiser</a>
+            <a href="https://hornraiser.utexas.edu/project/19269" target="_blank">HornRaiser</a>
           </div>
           <hr/>
           <h3>Contact</h3>
