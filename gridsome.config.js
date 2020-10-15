@@ -14,6 +14,12 @@ module.exports = {
         width: 1300,
         height: 900,
       }
+    },
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-175318803-2'
+      }
     }
   ],
   siteUrl: "https://puc-india.com",
