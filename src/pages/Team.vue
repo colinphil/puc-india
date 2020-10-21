@@ -11,9 +11,9 @@
     </div>
 
     <div class="outer">
-      <!-- <div class="team-content">
+      <div class="team-content">
         <h2>2020-2021 Team</h2>
-        <p>This team has taken over the project beginning in 2020 will expand scope over the course of the year.</p>
+        <p>This team has taken over the project beginning in 2020 and will expand scope over the course of the year.</p>
         <div class="team-photos">
           <div class="photo-block"> 
             <div class="photo">
@@ -131,7 +131,7 @@
         </div>
       </div>
       <hr/>
-      <hr/> -->
+      <hr/>
       <div class="team-content">
         <h2>2019-2020 Team</h2>
         <p>This "<strong>quirky</strong>" team was the original seven person group to start this project in 2019.</p>

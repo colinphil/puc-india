@@ -3,20 +3,9 @@
 
     
     <!-- Navigation Bar -->
-    <!-- <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">TEST</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
-    </header> -->
-    <!-- <div id="horizontal-line"></div> -->
-
     <div class="navbar">
       <b-navbar toggleable="lg">
-        <b-navbar-brand href="/"><g-image src="../../static/PUC.png"/> <span>&nbsp; Projects with Underserved Communities</span></b-navbar-brand>
+        <b-navbar-brand href="/"><g-image src="../../static/2021-logo.png"/> <span>&nbsp; Projects with Underserved Communities</span></b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

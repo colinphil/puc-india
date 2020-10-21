@@ -11,8 +11,8 @@
             <g-image class="first" src="../../static/team.png"/>
           </div>
           <div class="second-column">
+            <g-image src="../../static/21-team-horns.jpg"/>
             <g-image src="../../static/covid-response.png"/>
-            <g-image src="../../static/village.jpg"/>
             <g-image src="../../static/girl-day.jpeg"/>
           </div>
         </div>
@@ -51,7 +51,7 @@
         <div class="story-images">
           <g-image src="../../static/tower.jpg"/>
           <g-image src="../../static/candid-team.jpg"/>
-          <!-- <g-image src="../../static/21-team.jpg"/> -->
+          <g-image src="../../static/21-team.jpg"/>
         </div>
         <div class="story-content">
           <g-image src="../../static/paint.svg"/>
@@ -648,7 +648,7 @@
   border-radius: 5%;
 }
 
-/* for PUC India 2020 version */
+/* for PUC India 2020 version
 .story-images img:nth-of-type(2){
   width: 30%;
   position: absolute;
@@ -657,9 +657,9 @@
           transform: translate(-70%, 40%);
   border: solid white 10px;
   border-radius: 5%;
-}
+} */
 
-/* .story-images img:nth-of-type(3){
+.story-images img:nth-of-type(3){
   width: 25%;
   position: absolute;
   -webkit-transform: translate(-70%, 15%);
@@ -677,7 +677,7 @@
           transform: translate(-70%, 120%);
   border: solid white 10px;
   border-radius: 5%;
-} */
+}
 
 @media screen and (max-width: 1700px){
   .story-content p {
@@ -832,9 +832,15 @@
   height: 100%;
 }
 
+.first-column{
+  flex-direction: column;
+  align-items: center;
+}
+
 .first-column img:nth-of-type(1){
-  width: 100%;
+  width: 85%;
   position: relative;
+  margin-top: 10px;
 }
 
 /* .first-column img:nth-of-type(1){
@@ -860,13 +866,14 @@
 
 .first-column .ut h1 {
   font-weight: bolder;
-
   font-size: 3em;
   text-transform: uppercase;
   color:#CC5500;
   border-left: solid #CC5500 10px;
   padding-left: 40px;
   margin-bottom: 20px;
+  margin-left: 8%;
+  padding-right: 10%;
 }
 
 .second-column img:nth-of-type(3){
