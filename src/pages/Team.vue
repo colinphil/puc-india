@@ -88,7 +88,7 @@
                   <hr/>
                   <li><span>Why PUC:</span> Bhaargavi joined PUC to use all that she's learned through engineering in a way that creates value for others - she's excited to get to know the community and understand how PUC can make a lasting impact!</li>
                   <hr/>
-                  <li><span>Fun Fact:</span> Dain has a twin sister and little sister who both play volleyball. He claims experiencing telepathic moments with his twin.</li>
+                  <li><span>Fun Fact:</span> She's an avid yoga enthusiast!</li>
                 </ul>
               </div>
             </div>
