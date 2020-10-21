@@ -648,8 +648,8 @@
   border-radius: 5%;
 }
 
-/* for PUC India 2020 version
-.story-images img:nth-of-type(2){
+/* for PUC India 2020 version */
+/* .story-images img:nth-of-type(2){
   width: 30%;
   position: absolute;
   -webkit-transform: translate(-70%, 40%);
