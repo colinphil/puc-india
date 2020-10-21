@@ -739,17 +739,17 @@
     width: 80%;
   } 
 
-  /* .story-images img:nth-of-type(2){
+  .story-images img:nth-of-type(2){
     width: 40%;
   }
 
   .story-images img:nth-of-type(3){
     width: 40%;
-  } */
+  } 
 
-  .story-images img:nth-of-type(2){
+  /* .story-images img:nth-of-type(2){
     width: 50%;
-  }
+  } */
 
   .story-content {
     margin-top: 50px;
