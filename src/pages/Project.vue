@@ -88,7 +88,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="https://hornraiser.utexas.edu/project/19269" target="_blank">Help Make This a Reality!</a>
+            <a rel="noopener noreferrer" href="https://hornraiser.utexas.edu/project/19269" target="_blank">Help Make This a Reality!</a>
         </div>
     </div>
 

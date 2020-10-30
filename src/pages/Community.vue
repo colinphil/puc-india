@@ -18,7 +18,7 @@
             <div class="partner">
                 <div class="partner-description">
                     <h1><strong>Siripudi Overview</strong></h1>
-                    <p><em>Guntur District, Andhra Pradesh</em> &nbsp;<a href="https://www.google.com/maps/place/Siripudi,+Andhra+Pradesh+522329,+India/@15.9291903,80.4368456,10.77z/data=!4m5!3m4!1s0x3a4a1856b744ece5:0x77d9a24ccaadb854!8m2!3d15.9946689!4d80.6729185?hl=en&authuser=0" target="_blank"><font-awesome-icon :icon="['fas', 'map-marked-alt']"/></a></p>
+                    <p><em>Guntur District, Andhra Pradesh</em> &nbsp;<a rel="noopener noreferrer" href="https://www.google.com/maps/place/Siripudi,+Andhra+Pradesh+522329,+India/@15.9291903,80.4368456,10.77z/data=!4m5!3m4!1s0x3a4a1856b744ece5:0x77d9a24ccaadb854!8m2!3d15.9946689!4d80.6729185?hl=en&authuser=0" target="_blank"><font-awesome-icon :icon="['fas', 'map-marked-alt']"/></a></p>
                     <hr/>
                     <p>The villagers of Siripudi face daily discrimination as members of the lowest caste system in India - securing consistent work is often difficult. With only thatched houses, the village has <strong>no permanent infrastructure</strong> and is vulnerable to <strong>seasonal monsoon flooding</strong>. 
                         Regular schooling has recently begun for the largely illiterate community, held within the residental huts at night.
@@ -35,7 +35,7 @@
                     <hr/>
                     <p>The COVID-19 pandemic has significantly disrupted the Indian economy, leading to many communities, including Siripudi, to experience <strong>food shortages</strong>. Government rations have been insufficient with the ongoing lockdown
                     and the PUC team in Spring 2020 was able to raise over $1,600 to provide some support. We highly recommend learning more about the current lockdown and consider donating to 
-                    <a href="http://casa-india.org/donate/" target="_blank">CASA</a>.
+                    <a rel="noopener noreferrer" href="http://casa-india.org/donate/" target="_blank">CASA</a>.
                     </p>
                 </div>
             </div>

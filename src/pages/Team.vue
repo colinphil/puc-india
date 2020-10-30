@@ -28,7 +28,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Scia Verma</strong> &nbsp;<a href="https://www.linkedin.com/in/sciaverma/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Scia Verma</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/sciaverma/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Project Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -44,7 +44,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Rachel Sutherland</strong> &nbsp;<a href="https://www.linkedin.com/in/rachel-sutherland-646405161/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Rachel Sutherland</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/rachel-sutherland-646405161/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Co-Technical Lead</em></p>
           </div>
           <div class="photo-block"> 
@@ -60,7 +60,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Nathan Hardham</strong> &nbsp;<a href="https://www.linkedin.com/in/nathan-hardham-798b89166/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Nathan Hardham</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/nathan-hardham-798b89166/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Cost &#38; Resources Lead</em></p>
           </div>
           <div class="photo-block"> 
@@ -76,7 +76,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Bedelwa Ishiyama</strong> &nbsp;<a href="https://www.linkedin.com/in/bedelwa-ishiyama-93b8b014b/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Bedelwa Ishiyama</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/bedelwa-ishiyama-93b8b014b/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Communications Lead</em></p>
           </div>
           <div class="photo-block"> 
@@ -92,7 +92,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Bhaargavi Ashok</strong> &nbsp;<a href="https://www.linkedin.com/in/bhaargavi-ashok-30a211188/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Bhaargavi Ashok</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/bhaargavi-ashok-30a211188/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Fundraising &#38; Logistics Co-Lead</em></p>
           </div>
           <div class="photo-block"> 
@@ -108,7 +108,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Rohan Mehta</strong> &nbsp;<a href="https://www.linkedin.com/in/rohan-m-272872115/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Rohan Mehta</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/rohan-m-272872115/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Fundraising &#38; Logistics Co-Lead</em></p>
           </div>
           <div class="photo-block"> 
@@ -124,7 +124,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Ofek Bruhis</strong> &nbsp;<a href="https://www.linkedin.com/in/ofek-bruhis/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Ofek Bruhis</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/ofek-bruhis/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Co-Technical Lead</em></p>
           </div>
         
@@ -149,7 +149,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Colin Phillips</strong> &nbsp;<a href="https://www.linkedin.com/in/cphillips17/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Colin Phillips</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/cphillips17/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Project Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -165,7 +165,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Ramya Yedatore</strong> &nbsp;<a href="https://www.linkedin.com/in/ramya-yedatore/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Ramya Yedatore</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/ramya-yedatore/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Fundraising Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -181,7 +181,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Elise Higgins</strong> &nbsp;<a href="https://www.linkedin.com/in/elise-higgins-2a0461158/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Elise Higgins</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/elise-higgins-2a0461158/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Cost &#38; Resources Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -197,7 +197,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Audrey Soltau</strong> &nbsp;<a href="https://www.linkedin.com/in/audrey-soltau-9ba6a6192/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Audrey Soltau</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/audrey-soltau-9ba6a6192/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Quality &#38; Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -213,7 +213,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Britta Dalton</strong> &nbsp;<a href="https://www.linkedin.com/in/britta-dalton-731594170/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Britta Dalton</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/britta-dalton-731594170/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Logistics Manager</em></p>
           </div>
           <div class="photo-block"> 
@@ -229,7 +229,7 @@
                 </ul>
               </div>
             </div>
-            <h3><strong>Dain Kasprak</strong> &nbsp;<a href="https://www.linkedin.com/in/dain-kasprak/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
+            <h3><strong>Dain Kasprak</strong> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/dain-kasprak/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></h3>
             <p><em>Scope &#38; Delierables Manager</em></p>
           </div>
           <div class="photo-block"> 

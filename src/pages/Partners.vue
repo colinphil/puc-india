@@ -17,7 +17,7 @@
             <div class="partner">
                 <div class="partner-description">
                     <h1><strong>Church's Auxiliary for Social Action (CASA)</strong></h1>
-                    <p><em>Indian Non-Governmental Organization (NGO)</em> &nbsp;<a href="http://casa-india.org/" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
+                    <p><em>Indian Non-Governmental Organization (NGO)</em> &nbsp;<a rel="noopener noreferrer" href="http://casa-india.org/" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
                     <hr/>
                     <p>CASA is an NGO based in New Delhi which focuses on promoting education, gender equality, and sustainable livelihoods across India. CASA has partnered with PUC teams in the past and has been facilitating 
                         the dialogue between the team and community. Their awesome team members have gone above and beyond to support the project and we're looking forward to working them throughout this year!
@@ -29,7 +29,7 @@
                 <g-image src="../../static/ken.jpg"/>
                 <div class="partner-description">
                     <h1><strong>Ken Hanks, P.E.</strong></h1>
-                    <p><em>Senior Structural Engineer</em> &nbsp;<a href="https://www.linkedin.com/in/ken-hanks-9076554/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></p>
+                    <p><em>Senior Structural Engineer</em> &nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/in/ken-hanks-9076554/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']"/></a></p>
                     <hr/>
                     <p>Ken "Kenjamin" Hanks is a practicing Structural Engineer in Austin, Texas that has been serving as the team's Traveling Technical Adviser for the project. He has been vital in providing 
                         feedback and evaluating our designs. He will be assisting the team during the implementation phase by traveling with us to Siripudi in May 2021. 
@@ -51,7 +51,7 @@
                 <g-image src="../../static/puclogo_edited_edited.webp"/>
                 <div class="partner-description">
                     <h1><strong>Projects with Underserved Communities (PUC)</strong></h1>
-                    <p><em>Humanitarian Engineering Organization</em> &nbsp;<a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
+                    <p><em>Humanitarian Engineering Organization</em> &nbsp;<a rel="noopener noreferrer" href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank"><font-awesome-icon :icon="['fas', 'globe']"/></a></p>
                     <hr/>
                     <p>The greater Projects with Underserved Communities organization is composed of four teams creating projects for four different countries. The Service Learning Advisory Board (SLAB) of engineering professionals and professors provides
                         guidance and serves as a resource for each team.

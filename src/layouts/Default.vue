@@ -17,7 +17,7 @@
             <b-nav-item href="/partners" >Partners</b-nav-item>
             <b-nav-item href="/community" >Community</b-nav-item>
             <b-nav-item href="/project" >Project</b-nav-item>
-            <b-nav-item href="https://hornraiser.utexas.edu/pucindia2021" target="_blank">Donate</b-nav-item>
+            <b-nav-item href="https://hornraiser.utexas.edu/pucindia2021" target="_blank" rel="noopener noreferrer">Donate</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>
@@ -31,10 +31,10 @@
     </transition>
   
     <div class="contact">
-      <a href="https://www.instagram.com/pucindia2020/" target="_blank"><font-awesome-icon :icon="['fab', 'instagram']" id='insta'/></a>
-      <a href="https://www.facebook.com/PUCIndia2020" target="_blank"><font-awesome-icon :icon="['fab', 'facebook']" id='insta'/></a>
-      <a href="https://www.youtube.com/channel/UC_O7a0sn-blWnHJKnLde0jQ" target="_blank"><font-awesome-icon :icon="['fab', 'youtube']" /></a>
-      <a href="mailto:pucindia2020@gmail.com" target="_blank"><font-awesome-icon :icon="['fas', 'inbox']" /></a>
+      <a href="https://www.instagram.com/pucindia2020/" target="_blank" rel="noopener noreferrer"><font-awesome-icon :icon="['fab', 'instagram']" id='insta'/></a>
+      <a href="https://www.facebook.com/PUCIndia2020" target="_blank" rel="noopener noreferrer"><font-awesome-icon :icon="['fab', 'facebook']" id='insta'/></a>
+      <a href="https://www.youtube.com/channel/UC_O7a0sn-blWnHJKnLde0jQ" target="_blank" rel="noopener noreferrer"><font-awesome-icon :icon="['fab', 'youtube']" /></a>
+      <a href="mailto:pucindia2020@gmail.com" target="_blank" rel="noopener noreferrer"><font-awesome-icon :icon="['fas', 'inbox']" /></a>
     </div>
 
     <div class="footer">
@@ -45,10 +45,10 @@
         <div class="footer-info">
           <h3>More Information</h3>
           <div class="links">
-            <a href="https://admissions.utexas.edu/" target="_blank">UT Home</a>
-            <a href="https://www.engr.utexas.edu/" target="_blank">Engineering Home</a>
-            <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank">Organization Website</a>
-            <a href="https://hornraiser.utexas.edu/pucindia2021" target="_blank">HornRaiser</a>
+            <a href="https://admissions.utexas.edu/" target="_blank" rel="noopener noreferrer">UT Home</a>
+            <a href="https://www.engr.utexas.edu/" target="_blank" rel="noopener noreferrer">Engineering Home</a>
+            <a href="https://global.utexas.edu/abroad/programs/service-learning/projects-underserved-communities" target="_blank" rel="noopener noreferrer">Organization Website</a>
+            <a href="https://hornraiser.utexas.edu/pucindia2021" target="_blank" rel="noopener noreferrer">HornRaiser</a>
           </div>
           <hr/>
           <h3>Contact</h3>
