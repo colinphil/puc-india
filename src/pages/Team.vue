@@ -445,6 +445,10 @@ export default {
     .photo-block p {
       font-size: 0.8em;
     }
+
+    .photo-block a {
+      display: none;
+    }
   }
 
   /* Top Styling */
@@ -543,7 +547,7 @@ export default {
     }
 
     .top-text {
-      width: 80%;
+      width: 100%;
     }
 
     .top-text h1{

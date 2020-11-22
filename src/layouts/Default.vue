@@ -401,6 +401,11 @@ a.nav-link{
   .contact {
     margin-right: 40px;
   }
+
+  .footer {
+    text-align: center;
+    font-size: 0.7em;
+  }
 }
 
 .logo {

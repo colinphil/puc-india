@@ -551,6 +551,7 @@
   iframe {
     width: 70%;
   }
+
 }
 
 
@@ -744,6 +745,12 @@
 
   .story-content img {
     display: none;
+  }
+}
+
+@media screen and (max-width: 650px){
+  .story-content {
+    width: 100%;
   }
 }
 
