@@ -79,7 +79,7 @@
     </div>
 
     <div class="outer video">
-      <iframe width="800" height="493.75" src="https://www.youtube.com/embed/G5BOKLh8XjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="50%" height='400' src="https://www.youtube.com/embed/G5BOKLh8XjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <div class="outer">
@@ -265,20 +265,6 @@
     font-size: 0.8em;
   }
 }
-/* .what .what-card{
-  width: 30%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border-radius: 10px;
-  padding: 10px;
-  margin-top: 20px;
-}
-
-.what-card img {
-  width: 80%;
-  margin-bottom: 30px;
-} */
 
 .buttons {
   margin-top: 40px;
@@ -311,6 +297,7 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  justify-content: center;
   color: white;
   border-radius: 5%;
 }
@@ -369,7 +356,7 @@
   }
 
   .buttons a div h1 {
-    font-size: 3em;
+    font-size: 4em;
   }
 }
 
@@ -377,11 +364,16 @@
   .buttons a div hr{
     display: none;
   }
+
+  .buttons a div h1 {
+    font-size: 4em;
+  }
 }
 
-@media screen and (max-width: 470px){
-  .buttons a div h1 {
-    font-size: 2.5em;
+@media screen and (max-width: 580px){
+  .buttons a div h1{
+    font-size: 2em;
+    margin-top: 5px;
   }
 }
 
@@ -647,17 +639,6 @@
   position: relative;
   border-radius: 5%;
 }
-
-/* for PUC India 2020 version */
-/* .story-images img:nth-of-type(2){
-  width: 30%;
-  position: absolute;
-  -webkit-transform: translate(-70%, 40%);
-      -ms-transform: translate(-70%, 40%);
-          transform: translate(-70%, 40%);
-  border: solid white 10px;
-  border-radius: 5%;
-} */
 
 .story-images img:nth-of-type(3){
   width: 25%;
@@ -945,26 +926,36 @@
   .first-column .ut h1{
     font-size: 1.25em;
   }
+
+  iframe {
+    height: 300px;
+  }
 }
 
 @media screen and (max-width: 585px){
 
   .first-column .ut h1{
-    font-size: 1em;
+    font-size: 1.2em;
   }
-}
 
-@media screen and (max-width: 510px){
-
-  .first-column .ut h1{
-    font-size: 0.8em;
+  .first-column img {
+    content:url('../../static/21-team-horns.jpg');
   }
-}
 
-@media screen and (max-width: 1000px){
+  .first-column {
+    width: 100%;
+  }
 
-  .horizontal:nth-of-type(2){
+  .second-column{
     display: none;
+  }
+
+  .outer {
+    margin-bottom: 40px;
+  }
+
+   iframe {
+    height: 200px;
   }
 }
 

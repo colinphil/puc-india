@@ -464,6 +464,10 @@ export default {
     margin-top: 70px;
   }
 
+  .outer:nth-of-type(2){
+    margin-bottom: 20px;
+  }
+
   .top-content{
     width: 70%;
     display: -webkit-box;

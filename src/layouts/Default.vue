@@ -13,10 +13,10 @@
           
           <b-navbar-nav class="ml-auto">
             <b-nav-item href="/" >Home</b-nav-item>
-            <b-nav-item href="/team" >Team</b-nav-item>
+            <b-nav-item href="/project" >Project</b-nav-item>
             <b-nav-item href="/partners" >Partners</b-nav-item>
             <b-nav-item href="/community" >Community</b-nav-item>
-            <b-nav-item href="/project" >Project</b-nav-item>
+            <b-nav-item href="/team" >Team</b-nav-item>
             <b-nav-item href="https://hornraiser.utexas.edu/pucindia2021" target="_blank" rel="noopener noreferrer">Donate</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
@@ -229,7 +229,6 @@ body {
 
 .nav-item .nav-link{
   text-align: center;
-  padding: 0;
   letter-spacing: 1px;
 }
 
@@ -244,11 +243,13 @@ body {
 
 .nav-item{
   margin-right: 10px;
+  margin-bottom: 5px;
   width: 100px;
 }
 
 a.nav-link{
   color: black;
+  margin-top: 5px;
 }
 
 .navbar-nav {
@@ -385,6 +386,20 @@ a.nav-link{
   .navbar-light .navbar-brand img{
     width: 80px;
     height: 80px;
+  }
+
+  .footer-info {
+    display: none;
+  }
+
+  .footer-images{
+    width: 100%;
+    align-items: center;
+    margin-bottom: 0;
+  }
+
+  .contact {
+    margin-right: 40px;
   }
 }
 

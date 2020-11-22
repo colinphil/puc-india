@@ -189,7 +189,7 @@ export default {
   .motivation ul li{
       font-size: 1.1em;
       list-style: none;
-      margin-bottom: 5px;
+      margin-bottom: 10px;
   }
 
   .motivation ul {
@@ -229,15 +229,20 @@ export default {
   }
 
   @media screen and (max-width: 590px){
-      .detail h3{
-          font-size: 0.9em;
+      .detail {
+          flex-direction: column;
+          margin-bottom: 10px;
       }
-  }
 
-  @media screen and (max-width: 552px){
-      .detail h3{
-          font-size: 0.75em;
+      .detail p {
+          width: 100%;
       }
+
+      .motivation ul li{
+      font-size: 1.1em;
+      list-style: none;
+      margin-bottom: 15px;
+  }
   }
 
   .partner {

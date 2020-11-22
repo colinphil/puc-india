@@ -174,11 +174,20 @@ export default {
           -webkit-box-align: center;
               -ms-flex-align: center;
                   align-items: center;
+          margin-bottom: 50px;
+      }
+
+      .partner-description {
+        width: 100%;
       }
 
       .partner img {
           width: 50%;
           margin-bottom: 40px;
+      }
+
+      .partner:nth-of-type(2) img, .partner:nth-of-type(4) img{
+        order:2;
       }
   }
 
@@ -196,8 +205,12 @@ export default {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-bottom: 180px;
+    margin-bottom: 130px;
     margin-top: 70px;
+  }
+
+  .outer:nth-of-type(2){
+    margin-bottom: 20px;
   }
 
   .top-content{
